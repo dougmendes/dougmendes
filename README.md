@@ -1,6 +1,6 @@
 ### Hi there, I'm Douglas L. Mendes 👋
 
-## I'm a Husband, Developer and maybe a good friend 
+## I'm a Developer and maybe a good friend 
 
 - 🔭 I’m currently working on digital bank in Brazil
 - 🌱 I’m currently learning aws, gcp, golang, IAC and all I have time
