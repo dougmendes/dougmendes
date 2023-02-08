@@ -27,9 +27,12 @@
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" height="100"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="100" height="100"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="100" height="100"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="100" height="100"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100" height="100"/>&nbsp;
+
 
 </div>
 
